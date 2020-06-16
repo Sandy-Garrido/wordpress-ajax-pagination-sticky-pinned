@@ -1,4 +1,4 @@
-
+<?php
 $paged = $_POST['pageRequested'];
 
 $pinned_post_arr = array(); 
